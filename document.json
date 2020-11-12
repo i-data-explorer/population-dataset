@@ -8,23 +8,13 @@
   "categories": [
     "Population"
   ],
+  "source_repo": "https://github.com/datasets/population.git",
   "platform": "Kubernetes",
   "cover": "cover.md",
   "deployment_information": {
-     "Dataset": "/home/student/projects/population_dataset"
+     "Dataset": "/home/jupyter-user/population"
   },
   "commands": [
-    {
-      "description": "Get Dataset",
-      "exec": "cd /home/student/projects && mkdir population_dataset && cd  population_dataset  && git clone https://github.com/datasets/population.git"
-    }
-  ],
-  "display": [
-    {
-      "name": "Developer Dashboard",
-      "url": "##DNS.host##/codeserver",
-      "enabled": true
-    }
   ],
   "meta": {
     "Install time": [
