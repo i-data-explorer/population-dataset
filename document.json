@@ -3,7 +3,7 @@
   "description": "Population figures for countries, regions (e.g. Asia) and the world.",
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
-  "stack_id": "population_dataset",
+  "de_catalog_id": "population_dataset",
   "type": "Dataset",
   "categories": [
     "Population"
