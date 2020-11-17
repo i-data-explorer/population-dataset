@@ -4,18 +4,11 @@
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
   "de_catalog_id": "population_dataset",
-  "type": "Dataset",
   "categories": [
     "Population"
   ],
   "source_repo": "https://github.com/datasets/population.git",
-  "platform": "Kubernetes",
   "cover": "cover.md",
-  "deployment_information": {
-     "Dataset": "/home/jupyter-user/population"
-  },
-  "commands": [
-  ],
   "meta": {
     "Install time": [
       "2 minutes"
@@ -26,9 +19,11 @@
     "Tag": [
       "CSV"
     ],
-    "categories": [
+    "Categories": [
       "Population"
-    ]
-  },
-  "isDocumentSaved": true
+    ],
+ "Catalog Id": [
+      "population_dataset"
+    ],
+  }
 }
