@@ -10,7 +10,7 @@
   "source_repo": "https://github.com/datasets/population.git",
   "cover": "cover.md",
   "meta": {
-    "Install time": [
+    "Install Time": [
       "2 minutes"
     ],
     "Type": [
@@ -21,6 +21,15 @@
     ],
     "Categories": [
       "Population"
+    ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
     ],
  "Catalog Id": [
       "population_dataset"
